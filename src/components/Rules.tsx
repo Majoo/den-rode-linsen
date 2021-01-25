@@ -31,7 +31,7 @@ export default function Rules() {
 
             <h4>Other</h4>
             <ol>
-              <li>We keep quiet after 22:00 weekdays</li>
+              <li>We keep quiet after 22:00 on weekdays</li>
             </ol>
 
             <h4>Cleaning week</h4>
